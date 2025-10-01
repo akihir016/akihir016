@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning still VB.net
 - 📫 How to reach me ... please dont.
 - 😄 Pronouns: ... Attack Helicopter
-- ⚡ Fun fact: ... i use GPT 
+- ⚡ Fun fact: ... i use GPT "Vibe" yeah.
 
 <!---
 akihir016/akihir016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
